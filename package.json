@@ -19,7 +19,7 @@
     "gatsby-plugin-google-analytics": "^1.0.16",
     "gatsby-plugin-postcss-sass": "^1.0.16",
     "gatsby-plugin-react-helmet": "^2.0.4",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "mappy-breakpoints": "^0.2.3",
     "prop-types": "^15.6.0",
     "react-bodymovin": "^1.1.1",
